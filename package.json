@@ -1,6 +1,6 @@
 {
-  "name": "wdio-testrail-reporter",
-  "version": "1.1.5",
+  "name": "wdio-testrail-reporter-2022",
+  "version": "1.1.6",
   "description": "A Testrail reporter for webdriver.io including TestRail API basic library (fork from mocha-testrail-reporter)",
   "main": "lib/wdio-testrail-reporter.js",
   "private": false,
@@ -21,10 +21,10 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oxynade/wdio-testrail-reporter.git"
+    "url": "https://github.com/JessikaLazers/wdio-testrail-reporter-2022.git"
   },
   "bugs": {
-    "url": "https://github.com/oxynade/wdio-testrail-reporter/issues"
+    "url": "https://github.com/JessikaLazers/wdio-testrail-reporter-2022/issues"
   },
   "dependencies": {
     "file": "^0.2.2",
